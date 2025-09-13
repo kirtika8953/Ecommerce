@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/index.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/login.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/register.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/products.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/cart.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/checkout.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/orders.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/admin/dashboard.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/admin/manageProducts.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/admin/manageUsers.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/web/admin/manageOrders.jsp</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/DB/DBconnection.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/DB/UserDB.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/DB/ProductDB.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/DB/CartDB.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/DB/OrderDB.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/model/User.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/model/Product.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/model/Cart.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/model/CartItem.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/model/Order.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/model/OrderItem.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/servlet/ProductServlet.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/servlet/Auth/LoginServlet.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/servlet/Auth/RegisterServlet.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/servlet/CartServlet.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/servlet/CheckoutServlet.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/servlet/OrderServlet.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/servlet/AdminServlet.java</file>
+            <file>file:/C:/NetBeansProjects/Ecommerace/src/java/servlet/Auth/LogoutServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
